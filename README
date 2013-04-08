@@ -1,1 +1,3 @@
-Test README
+This program takes a string of words and a length, and returns all the possible ENGLISH permutations of the string of the given length.
+
+This Program uses PyEnchant
